@@ -49,7 +49,7 @@ public class tela extends javax.swing.JFrame {
             }
         });
 
-        lbl.setFont(new java.awt.Font("Elephant", 1, 24)); // NOI18N
+        lbl.setFont(new java.awt.Font("Bitstream Charter", 3, 24)); // NOI18N
         lbl.setForeground(new java.awt.Color(255, 0, 0));
         lbl.setText("1");
         lbl.setToolTipText("");
@@ -69,7 +69,7 @@ public class tela extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addComponent(lbl, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                        .addGap(0, 47, Short.MAX_VALUE)
+                        .addGap(0, 0, Short.MAX_VALUE)
                         .addComponent(jLabel3, javax.swing.GroupLayout.PREFERRED_SIZE, 269, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addContainerGap())
         );
